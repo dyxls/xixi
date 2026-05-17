@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.stand.sounder.bing！"
+        applicationId "com.stand.sounder.bing"
         minSdk 23
         targetSdk 36
         versionCode 1
